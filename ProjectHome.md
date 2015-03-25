@@ -1,0 +1,1 @@
+Datasnap project, illustrated how to use calbacks to use callback within server methods to request data from user
